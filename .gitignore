@@ -1,0 +1,13 @@
+# build output
+build/
+/campuscompute
+
+# generated at runtime
+logs/
+
+# packaging
+*.zip
+.pkg/
+
+# macOS
+.DS_Store
